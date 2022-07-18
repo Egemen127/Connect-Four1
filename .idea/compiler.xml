@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Desktop_Connect_Four1.Desktop_Connect_Four-task-build-classes-java.main" target="11" />
+      <module name="Desktop_Connect_Four1.Desktop_Connect_Four-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Desktop_Connect_Four1.Desktop_Connect_Four-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Desktop_Connect_Four1.Desktop_Connect_Four-task-build-reports-tests.main" target="11" />
+      <module name="Desktop_Connect_Four1.Desktop_Connect_Four-task-build-test-results.main" target="11" />
+      <module name="Desktop_Connect_Four1.Desktop_Connect_Four-task-build-tmp.main" target="11" />
+      <module name="Desktop_Connect_Four1.Desktop_Connect_Four-task.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Abstract_class-Incorrect_declaration.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Abstract_class-Shape_hierarchy.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Abstract_class-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Abstract_class-Users_and_WebSites.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Getters_and_setters-Account.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Getters_and_setters-Book.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Getters_and_setters-Choose_a_pair_of_getter_and_setter.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Getters_and_setters-Complex.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Getters_and_setters-Getting_the_fullname.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Getters_and_setters-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Template_method-Build_a_house.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Template_method-Career.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Template_method-New_customer.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Template_method-Social_networks.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Template_method-Template_Method.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Template_method-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Window_listeners-Count_a_window_active_time.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Window_listeners-Implement_a_listener.main" target="11" />
+      <module name="Desktop_Connect_Four1.Topics-Window_listeners-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
